@@ -1,0 +1,36 @@
+token: TELEGRAM_BOT_BOT # telegram bot token
+fetch_freq_hours: 4 # interval to check for new articles in hours
+sources:
+  - name: Energy Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/03605442
+  - name: Energy Reports Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/23524847
+  - name: Energy Strategy Reviews Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/2211467X
+  - name: Environmental Pollution Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/02697491
+  - name: Cleaner Production Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/09596526
+  - name: Energy Storage Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/2352152X
+  - name: Power Sources Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/03787753
+  - name: Renewable and Sustainable Energy Reviews Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/13640321
+  - name: Renewable Energy Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/09601481
+  - name: Solar Energy Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/0038092X
+  - name: Sustainable Energy Technologies and Assessments Journal
+    kind: scienceDirect
+    url: https://rss.sciencedirect.com/publication/science/22131388
