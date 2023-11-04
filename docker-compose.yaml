@@ -1,0 +1,7 @@
+version: '3'
+services:
+  papermind:
+    build: e
+    restart: on-failure
+    volumes:
+      - ./runtime:/app/runtime
